@@ -1,1 +1,1 @@
-# sentiment_analysis_of_movie_reviews
+# sentiment_analysis_of_movie_reviews (Naver Movie)
